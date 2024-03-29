@@ -8,23 +8,22 @@
 <li>Install Git and Open Git Bash:</li> <br>
 <p>If you haven't already installed Git, you can download and install it from the official website: Once installed, open Git Bash.</p>
 
-<li>Configure Git:</li>
-<p>Before using Git, you should configure your username and email. go to terminal and type this command, use yor github account info here</p> <br>
+<li>Configure Git:</li> <br>
+<p>Before using Git, you should configure your username and email. go to terminal and type this command, use your github account info here</p> <br>
 
+* `git config --global user.name "Your Name"`
+* `git config --global user.email "youremail@example.com""` <br>
 
+## Main steps
+<li>Open your project and Type this steps in VS code terminal</li> <br>
+<li>but first you need to create a repo in git hub account</li> <br>
 
-<li>git config --global user.name "Your Name"</li>
-<li>git config --global user.email "youremail@example.com"</li> <br>
-3. Initialize a Repository:
-Now, you can close a main terminal and go into VS code <br>
-<li>Create a project folder</li> <br>
-<li>Open terminal in VS code and type follow steps</li>
-1. git init
-2. git add README.
-3. git commit -m "first commit"
-4. git branch -M main
-5. git remote add origin https://github.com/yoursandeshshrestha/check.git
-6. git push -u origin main
+* `git init"`
+* `git add README`
+* `git commit -m "first commit"`
+* `git branch -M main`
+* `git remote add origin "Your repo link"
+* `git push -u origin main`
 
 
 
