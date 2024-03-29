@@ -55,4 +55,12 @@
 **git blame [file]:** `Shows who last modified each line of a file and in which commit.`<br>
 **git tag [tag_name]:** `Tags a specific commit in your repository.`<br>
 
+## My personal steps to clone github repo into my local storage 🔖 
 
+* `cd desktop`
+* `git clone [Repo Link]`
+* `cd [project name]`
+* `git init`
+* `git add . (. <- basically add all file) or you can upload any single file. for example index.html`
+* `git commit -m "Added html file" (this is message u upload while pushing commit)`
+* `git push`
