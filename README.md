@@ -11,20 +11,16 @@
 
 ## Configure Git: 😇
 <li>Before using Git, you should configure your username and email. go to terminal and type this command, use your github account info here</li>
-* `git config --global user.name "Your Name"` <br>
-* `git config --global user.email "youremail@example.com"` 
+ * `git config --global user.name "Your Name"` <br>
+ * `git config --global user.email "youremail@example.com"` 
 
 ## Connecting and pushing repo to github 🛠️
 <li>Open your project and Type this steps in VS code terminal</li>
 <li>but first you need to create a repo in git hub account</li>
 <br>
-* `git init"`
-* `git add README`
-* `git commit -m "first commit"`
-* `git branch -M main`
-* `git remote add origin "Your repo link"`
-* `git push -u origin main`
-
-
-
-
+ * `git init"`
+ * `git add README`
+ * `git commit -m "first commit"`
+ * `git branch -M main`
+ * `git remote add origin "Your repo link"`
+ * `git push -u origin main`
