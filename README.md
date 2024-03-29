@@ -32,27 +32,27 @@
 ## Most Important Git Commands: ⭐
 **git init:** `Initializes a new Git repository in the current directory.`<br>
 **git clone [url]:** `Clones a remote repository to your local machine.`<br>
-**git add [file]:** `Adds a file or changes in a file to the staging area.`
-**git commit -m "message":** `Commits staged changes with a descriptive message.`
-**git status:** `Shows the status of your working directory and staging area.`
-**git diff:** `Shows the differences between the working directory and the staging area.`
-**git log:** `Displays the commit history.`
-**git branch [branch_name]:** `Creates a new branch or lists existing branches.`
-**git checkout [branch_name]:** `Switches to the specified branch.`
-**git merge [branch_name]:** `Merges changes from the specified branch into the current branch.`
-**git pull:** `Fetches changes from the remote repository and merges them into the current branch.`
-**git push:** `Pushes committed changes to the remote repository.`
+**git add [file]:** `Adds a file or changes in a file to the staging area.`<br>
+**git commit -m "message":** `Commits staged changes with a descriptive message.`<br>
+**git status:** `Shows the status of your working directory and staging area.`<br>
+**git diff:** `Shows the differences between the working directory and the staging area.`<br>
+**git log:** `Displays the commit history.`<br>
+**git branch [branch_name]:** `Creates a new branch or lists existing branches.`<br>
+**git checkout [branch_name]:** `Switches to the specified branch.`<br>
+**git merge [branch_name]:** `Merges changes from the specified branch into the current branch.`<br>
+**git pull:** `Fetches changes from the remote repository and merges them into the current branch.`<br>
+**git push:** `Pushes committed changes to the remote repository.`<br>
 
 ## GitHub Commands: ⭐
-**git remote add origin [url]:** `Connects your local repository to a remote repository on GitHub.`
-**git push -u origin [branch_name]:** `Pushes the specified branch to GitHub, establishing a tracking relationship.`
-**git pull origin [branch_name]:** `Pulls changes from a remote repository on GitHub into your local repository.`
-**git fetch:** `Fetches changes from the remote repository on GitHub without merging them into your local branch.`
-**git clone [url]:** `Clones a repository from GitHub to your local machine.`
-**git fork:** `Forks a repository on GitHub, creating a copy under your account.`
-**git pull-request:** `Opens a pull request on GitHub, allowing you to propose changes to a repository.`
-**git issue:** `Manages issues on GitHub repositories.`
-**git blame [file]:** `Shows who last modified each line of a file and in which commit.`
-**git tag [tag_name]:** `Tags a specific commit in your repository.`
+**git remote add origin [url]:** `Connects your local repository to a remote repository on GitHub.`<br>
+**git push -u origin [branch_name]:** `Pushes the specified branch to GitHub, establishing a tracking relationship.`<br>
+**git pull origin [branch_name]:** `Pulls changes from a remote repository on GitHub into your local repository.`<br>
+**git fetch:** `Fetches changes from the remote repository on GitHub without merging them into your local branch.`<br>
+**git clone [url]:** `Clones a repository from GitHub to your local machine.`<br>
+**git fork:** `Forks a repository on GitHub, creating a copy under your account.`<br>
+**git pull-request:** `Opens a pull request on GitHub, allowing you to propose changes to a repository.`<br>
+**git issue:** `Manages issues on GitHub repositories.`<br>
+**git blame [file]:** `Shows who last modified each line of a file and in which commit.`<br>
+**git tag [tag_name]:** `Tags a specific commit in your repository.`<br>
 
 
