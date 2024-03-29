@@ -8,9 +8,9 @@
 <li>If you haven't already installed Git, you can download and install it from the official website: Once installed, open Git Bash</li>
 
 ## Configure Git: 😇
-<li> 1. Before using Git, you should configure your username and email. <li>
-<li> 2. go to terminal and type this command, use your github account info here </li>
-
+<li> Before using Git, you should configure your username and email. <li>
+<li> go to terminal and type this command, use your github account info here </li>
+<br>
 * `git config --global user.name "Your Name"`
 * `git config --global user.email "youremail@example.com"`
   
