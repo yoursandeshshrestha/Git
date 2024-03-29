@@ -43,7 +43,7 @@
 **git pull:** `Fetches changes from the remote repository and merges them into the current branch.`<br>
 **git push:** `Pushes committed changes to the remote repository.`<br>
 
-## GitHub Commands: ⭐
+## Most Important GitHub Commands: ⭐
 **git remote add origin [url]:** `Connects your local repository to a remote repository on GitHub.`<br>
 **git push -u origin [branch_name]:** `Pushes the specified branch to GitHub, establishing a tracking relationship.`<br>
 **git pull origin [branch_name]:** `Pulls changes from a remote repository on GitHub into your local repository.`<br>
