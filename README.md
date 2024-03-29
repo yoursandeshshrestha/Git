@@ -2,11 +2,17 @@
 <li> Git is a distributed version control system (DVCS) that allows you to track changes in your codebase. </li> <br>
 <li> GitHub is a web-based platform that hosts Git repositories and provides additional features for collaboration and project management. </li>
 <br>
-<h2> How to setup git </h2>
-1. Install Git and Open Git Bash: <br>
-If you haven't already installed Git, you can download and install it from the official website: Once installed, open Git Bash.
-2. Configure Git:
-Before using Git, you should configure your username and email. go to terminal and type this command, use yor github account info here <br>
+
+
+## How to setup git
+<li>Install Git and Open Git Bash:</li> <br>
+<p>If you haven't already installed Git, you can download and install it from the official website: Once installed, open Git Bash.</p>
+
+<li>Configure Git:</li>
+<p>Before using Git, you should configure your username and email. go to terminal and type this command, use yor github account info here</p> <br>
+
+
+
 <li>git config --global user.name "Your Name"</li>
 <li>git config --global user.email "youremail@example.com"</li> <br>
 3. Initialize a Repository:
