@@ -9,15 +9,16 @@
 <li>If you haven't already installed Git, you can download and install it from the official website: Once installed, open Git Bash</li>
 <br>
 
-## Configure Git:
-<p>Before using Git, you should configure your username and email. go to terminal and type this command, use your github account info here</p>
+## Configure Git: 😇
+<li>Before using Git, you should configure your username and email. go to terminal and type this command, use your github account info here</li>
 * `git config --global user.name "Your Name"`
-* `git config --global user.email "youremail@example.com""` <br>
+* `git config --global user.email "youremail@example.com"` 
+<br>
 
 ## Connecting and pushing repo to github 🛠️
 <li>Open your project and Type this steps in VS code terminal</li>
 <li>but first you need to create a repo in git hub account</li>
-
+<br>
 * `git init"`
 * `git add README`
 * `git commit -m "first commit"`
