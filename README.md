@@ -18,8 +18,8 @@
 <li>Open your project and Type this steps in VS code terminal</li>
 <li>but first you need to create a repo in git hub account</li>
 
-* `git init`
-* `git add README`
+* `git init` <br>
+* `git add README` <br>
 * `git commit -m "first commit'`
 * `git branch -M main`
 * `git remote add origin "your repo link"`
