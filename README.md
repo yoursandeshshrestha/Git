@@ -11,7 +11,7 @@
 
 ## Configure Git: 😇
 <li>Before using Git, you should configure your username and email. go to terminal and type this command, use your github account info here</li>
- * `git config --global user.name "Your Name"` <br>
+* `git config --global user.name "Your Name"`
  * `git config --global user.email "youremail@example.com"` 
 
 ## Connecting and pushing repo to github 🛠️
