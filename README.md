@@ -30,8 +30,8 @@
 * `git clone "your repo link"`
 
 ## Most Important Git Commands: ⭐
-**git init:** `Initializes a new Git repository in the current directory.`
-**git clone [url]:** `Clones a remote repository to your local machine.`
+**git init:** `Initializes a new Git repository in the current directory.`<br>
+**git clone [url]:** `Clones a remote repository to your local machine.`<br>
 **git add [file]:** `Adds a file or changes in a file to the staging area.`
 **git commit -m "message":** `Commits staged changes with a descriptive message.`
 **git status:** `Shows the status of your working directory and staging area.`
