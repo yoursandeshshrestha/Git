@@ -64,3 +64,14 @@
 * `git add . (. <- basically add all file) or you can upload any single file. for example index.html`
 * `git commit -m "Added html file" (this is message u upload while pushing commit)`
 * `git push`
+
+## Remove Git from folder 🗑 
+
+**On Windows (using PowerShell)**
+* `Remove-Item .git -Recurse -Force`
+
+**On Windows (using Command Prompt)**
+* `rmdir /s .git`
+
+**On Unix/Linux/Mac:**
+* `rm -rf .git`
